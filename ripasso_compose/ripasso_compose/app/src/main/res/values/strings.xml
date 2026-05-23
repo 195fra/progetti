@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ripasso_compose</string>
+    <string name="list_title">Elenco dei prodotti</string>
+</resources>
