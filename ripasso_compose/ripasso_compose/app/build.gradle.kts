@@ -65,4 +65,26 @@ dependencies {
     // Serialization
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.retrofit2.kotlinx)
+
+    /* Versioni estesi
+    // Hilt
+        implementation("com.google.dagger:hilt-android:<version>")
+        kapt("com.google.dagger:hilt-compiler:<version>")
+
+        implementation("io.coil-kt.coil3:coil-compose:3.0.0")
+        implementation("io.coil-kt.coil3:coil-network-okhttp:3.0.0")
+
+        implementation("androidx.hilt:hilt-navigation-compose:<version>")
+
+    // Retrofit
+        implementation("com.squareup.retrofit2:retrofit:<version>")
+        implementation("com.squareup.retrofit2:converter-gson:<version>")
+        implementation("com.squareup.okhttp3:okhttp:<version>")
+        implementation("com.squareup.okhttp3:logging-interceptor:<version>")
+
+    // Serialization
+        implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:<version>")
+        implementation("com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:<version>")
+        */
+
 }
