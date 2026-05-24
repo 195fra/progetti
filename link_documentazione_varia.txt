@@ -1,0 +1,102 @@
+Android (Kotlin / Android Studio)
+
+Android Development
+
+📚 Documentazione ufficiale
+https://developer.android.com/docs
+🔥 Guide fondamentali (da avere pronte)
+Activity lifecycle
+https://developer.android.com/guide/components/activities/activity-lifecycle
+Compose UI
+https://developer.android.com/jetpack/compose/documentation
+ViewModel
+https://developer.android.com/topic/libraries/architecture/viewmodel
+Navigation Component
+https://developer.android.com/guide/navigation
+Coroutines
+https://developer.android.com/kotlin/coroutines
+Room database
+https://developer.android.com/training/data-storage/room
+⚡ API utili veloci
+Intents
+https://developer.android.com/reference/android/content/Intent
+RecyclerView
+https://developer.android.com/guide/topics/ui/layout/recyclerview
+
+Jetpack Compose
+
+📚 Documentazione ufficiale (DA AVERE PRONTA)
+🔥 Base Compose
+https://developer.android.com/jetpack/compose
+🧱 Layout e UI
+https://developer.android.com/jetpack/compose/layouts
+🎛️ State management
+https://developer.android.com/jetpack/compose/state
+🧭 Navigation Compose
+https://developer.android.com/jetpack/compose/navigation
+📡 Side effects (LaunchedEffect ecc.)
+https://developer.android.com/jetpack/compose/side-effects
+
+
+🍎 iOS (Swift / SwiftUI)
+iOS Development
+
+📚 Documentazione ufficiale Apple
+https://developer.apple.com/documentation/
+🔥 SwiftUI (fondamentale)
+https://developer.apple.com/documentation/swiftui
+⚙️ Swift base
+https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+📱 UIKit (se richiesto)
+https://developer.apple.com/documentation/uikit
+🔄 Networking
+URLSession
+https://developer.apple.com/documentation/foundation/urlsession
+💾 Storage
+UserDefaults
+https://developer.apple.com/documentation/foundation/userdefaults
+CoreData
+https://developer.apple.com/documentation/coredata
+🦋 Flutter (Dart)
+
+Flutter Development
+
+📚 Documentazione ufficiale
+https://docs.flutter.dev/
+🔥 Widget fondamentali
+Widget catalog
+https://docs.flutter.dev/ui/widgets
+📱 Layout
+https://docs.flutter.dev/ui/layout
+🔄 Navigation
+https://docs.flutter.dev/ui/navigation
+⚙️ Dart
+https://dart.dev/guides
+🌐 Networking
+http package
+https://pub.dev/packages/http
+🧠 State management (base)
+https://docs.flutter.dev/data-and-backend/state-mgmt/intro
+⚛️ React Native
+
+React Native
+
+📚 Documentazione ufficiale
+https://reactnative.dev/docs/getting-started
+🔥 Core components
+https://reactnative.dev/docs/components-and-apis
+⚙️ Hooks (React base)
+https://react.dev/reference/react
+📡 Networking (fetch)
+https://reactnative.dev/docs/network
+🧭 Navigation (molto usato)
+https://reactnavigation.org/docs/getting-started
+
+
+🧠 EXTRA IMPORTANTI (tutti i linguaggi)
+🌐 HTTP / REST
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+📦 JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+🧪 Git (utile se serve)
+https://git-scm.com/docs
